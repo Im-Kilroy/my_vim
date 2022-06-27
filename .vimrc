@@ -15,7 +15,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'morhetz/gruvbox'
-Plugin 'schooloose/nerdtree'
+Plugin 'preservim/nerdtree'
 
 " Add plugins here which you want to add
 call vundle#end()
